@@ -7,7 +7,7 @@ has_children: false
 
 # About Academic Assets for AI and The AI Alliance
 
-**Academic Assets for AI** is a project of the [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
+**Academic Assets for AI** is a project of the Academic Education and Research Forum of [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
