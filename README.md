@@ -1,14 +1,14 @@
 ![The AI Alliance banner](https://the-ai-alliance.github.io/assets/images/ai-alliance-logo-horiz-pos-blue-cmyk-trans.png)
 
-# README for Academic Assets for AI
+# README for Academic Resources for AI
 
-[Published Documentation](https://the-ai-alliance.github.io/academic-assets-for-AI/)
+[Published Documentation](https://the-ai-alliance.github.io/academic-resources-for-AI/)
 
-This repo contains the code and documentation for the AI Alliance: Academic Assets for AI.
+This repo contains the code for the website _AI Alliance: Academic Resources for AI_.
 
-TODO - Describe this project
+This website catalogs various useful for resources about the effective and safe use of AI in academic contexts, both teaching and research. Included are published guidelines, course materials, research on AI effectiveness, etc.
 
-See the [documentation](https://the-ai-alliance.github.io/academic-assets-for-AI/) for details. The rest of this README provides information for contributors, developers, and users of this project repo.
+See the [published site](https://the-ai-alliance.github.io/academic-resources-for-AI/) for more details. The rest of this README provides information for contributors, developers, and users of this project repo.
 
 ## Getting Involved
 

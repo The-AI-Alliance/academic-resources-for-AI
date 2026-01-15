@@ -11,7 +11,7 @@ has_children: false
 Organizations that advocate for safe and effective use of AI in academic settings. 
 
 {: .note }
-> **Help Wanted:** Add your assets to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
+> **Help Wanted:** Add your resources to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
 
 ## Alliance for Data Science and AI
 

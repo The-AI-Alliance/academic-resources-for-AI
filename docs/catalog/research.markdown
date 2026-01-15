@@ -8,10 +8,10 @@ has_children: false
 
 # AI in Research
 
-See also the [Education]({{site.baseurl}}/catalog/education/) assets under [Cornell]({{site.baseurl}}/catalog/education/#cornell), [ETH Zürich]({{site.baseurl}}/catalog/education/#eth-zürich), and [University of Texas at Austin]({{site.baseurl}}/catalog/education/#university-of-texas-at-austin), which also cover AI use in research.
+See also the [Education]({{site.baseurl}}/catalog/education/) resources under [Cornell]({{site.baseurl}}/catalog/education/#cornell), [ETH Zürich]({{site.baseurl}}/catalog/education/#eth-zürich), and [University of Texas at Austin]({{site.baseurl}}/catalog/education/#university-of-texas-at-austin), which also cover AI use in research.
 
 {: .note }
-> **Help Wanted:** Add your assets to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
+> **Help Wanted:** Add your resources to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
 
 ## Research Papers
 

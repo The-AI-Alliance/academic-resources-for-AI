@@ -8,10 +8,10 @@ has_children: false
 
 # Education: the Use of AI in the Classroom
 
-Some of the assets listed below also cover [research use of AI]({{site.baseurl}}/catalog/research/).
+Some of the resources listed below also cover [research use of AI]({{site.baseurl}}/catalog/research/).
 
 {: .note }
-> **Help Wanted:** Add your assets to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
+> **Help Wanted:** Add your resources to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
 
 ## Guidelines for Educational Use of AI
 

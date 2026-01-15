@@ -5,15 +5,15 @@ nav_order: 20
 has_children: yes
 ---
 
-# The Academic Asset Catalog
+# The Academic Resources Catalog
 
 {: .note }
-> **Help Wanted:** Add your assets to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
+> **Help Wanted:** Add your resources to this catalog! See [contributing]({{site.baseurl}}/contributing) for details.
 
 {: .warn }
-> **WARNING:** The assets cataloged may have copyright or other limits on usage. Be sure to consult an asset's documentation for details.  
+> **WARNING:** The resources cataloged may have copyright or other limits on usage. Be sure to consult a resource's documentation for details.  
 
-The assets are grouped as followed:
+The resources are grouped as followed:
 
 * [Organizations]({{site.baseurl}}/catalog/organizations/): non-profit affiliations that explore use of AI in academic contexts.
 * [Education]({{site.baseurl}}/catalog/education/): use of AI in the classroom
