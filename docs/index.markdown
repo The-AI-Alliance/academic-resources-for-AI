@@ -10,9 +10,7 @@ has_children: false
 Welcome to the **The AI Alliance**: **Academic Resources for AI**, a project of the _Academic Education and Research Forum_ of [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
 
 {: .tip }
-> **TIPS:** 
-> 1. Use the search box at the top of this page to find specific content.
-> 2. Links for &ldquo;Capitalized Terms&rdquo; go to [this glossary]({{site.glossaryurl}}){:target="_glossary"}.
+> **TIP:** Use the search box at the top of this page to find specific content.
 
 This website catalogs publicly-available resources on how to safely and effectively use AI in education and research. These resources include guidelines adopted at various institutions, courseware, degree programs, research on AI effectiveness in these contexts, etc.
 
