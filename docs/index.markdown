@@ -25,7 +25,7 @@ This website catalogs publicly-available resources on how to safely and effectiv
 
 In the [catalog]({{site.baseurl}}/catalog/), the resources are grouped as followed:
 
-* [Organizations]({{site.baseurl}}/catalog/organizations/): non-profit affiliations that explore use of AI in academic contexts.
+* [Organizations]({{site.baseurl}}/catalog/organizations/): non-profit affiliations that explore use of AI in academic and other contexts.
 * [Education]({{site.baseurl}}/catalog/education/): use of AI in the classroom
 * [Research]({{site.baseurl}}/catalog/research/): use of AI in research
 
