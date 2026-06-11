@@ -29,7 +29,7 @@ See also the full list of projects [here](https://the-ai-alliance.github.io/){:t
 
 The _Academic Education and Research Forum_ holds monthly meetings to discuss AI in academia. Would you like to join the forum or the AI Alliance itself? 
 
-See [this Alliance page](https://www.aialliance.org/join){:target="aia-join"} for more information. If you [join as an individual](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo){:target="aia-join-indiv"}, be sure to check the box for _Skills, Education, and Exploratory Research Work Group_. Your organization can also [join the Alliance](https://events.thealliance.ai/membership-enquiry){:target="aia-join-org"}.
+See [this Alliance page](https://www.thealliance.ai/join){:target="aia-join"} for more information. If you [join as an individual](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo){:target="aia-join-indiv"}, be sure to check the box for _Skills, Education, and Exploratory Research Work Group_. Your organization can also [join the Alliance](https://events.thealliance.ai/membership-enquiry){:target="aia-join-org"}.
 
 ## Technical Notes on Contributing
 

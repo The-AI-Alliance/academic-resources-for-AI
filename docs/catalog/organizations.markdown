@@ -22,7 +22,7 @@ Organizations that advocate for safe and effective use of AI in academic, as wel
 
 ## The AI Alliance
 
-[website](https://www.aialliance.org){:target="aia"}
+[website](https://www.thealliance.ai){:target="aia"}
 
 (The AI Alliance maintains this website.)
 

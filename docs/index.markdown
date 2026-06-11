@@ -7,7 +7,7 @@ has_children: false
 
 # Academic Resources for AI
 
-Welcome to the **The AI Alliance**: **Academic Resources for AI**, a project of the _Academic Education and Research Forum_ of [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
+Welcome to the **The AI Alliance**: **Academic Resources for AI**, a project of the _Academic Education and Research Forum_ of [The AI Alliance](https://www.thealliance.ai){:target="aia"}. 
 
 {: .tip }
 > **TIP:** Use the search box at the top of this page to find specific content.
@@ -37,7 +37,7 @@ For more information about this project and The AI Alliance.
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [Project GitHub Repo](https://github.com/The-AI-Alliance/academic-resources-for-AI){:target="repo"}
-* [The AI Alliance](https://www.aialliance.org){:target="aia"}: The AI Alliance website.
+* [The AI Alliance](https://www.thealliance.ai){:target="aia"}: The AI Alliance website.
 
 ---
 
