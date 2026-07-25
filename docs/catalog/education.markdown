@@ -91,6 +91,14 @@ bachelor’s degree in Mathematical Engineering and Artificial Intelligence.
 
 Many institutions with close ties to academia publish training materials suitable for teaching aspects of AI or offer various hands-on learning opportunities for building AI skills.
 
+### AgentForge
+
+[AgentForge](https://github.com/Wukuai2333/agentforge-hackathon-os){:target="_blank"} is an open research prototype investigating how consented human–AI interaction data can support progress-oriented learning, learner reflection, and evidence-informed instructional improvement.
+
+Its short-term testbed is a personal-agent hackathon that connects participant prompts, tutorial progress, errors, feedback, and project outcomes. Organizers can use this evidence to identify learning bottlenecks, review AI-assisted interpretations, improve tutorials, and evaluate changes before and after an intervention.
+
+The longer-term research agenda explores student-owned longitudinal learner models, knowledge graphs, multi-agent tutoring roles, prompting as AI literacy, and transparent distinctions between observed facts, participant-reported information, and AI inference. The project explicitly avoids treating prompt volume, token consumption, or unreviewed AI judgments as measures of learning.
+
 ### Intel
 
 [AI Education Workforce Program in the US](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/ai-for-workforce-us.html){:target="_blank"}
